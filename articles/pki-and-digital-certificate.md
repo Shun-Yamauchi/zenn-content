@@ -3,7 +3,7 @@ title: "PKIと電子証明書：公開鍵の「身元保証」はどう行われ
 emoji: "📜"
 type: "tech"
 topics: ["security", "pki", "certificate", "tls", "authentication"]
-published: false
+published: true
 ---
 
 ## はじめに
